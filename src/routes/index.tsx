@@ -33,17 +33,17 @@ export default component$(() => {
         </div>
       </div>
       <div class="p-8">
-        <div class="font-mono font-bold text-5xl text-center  rounded-3xl border-2 p-8">
+        <div class="font-mono font-bold text-5xl text-center  rounded-3xl border-4 border-slate-900 p-8">
           Apurva Mishra
         </div>
       </div>
       <div class="p-8">
-        <div class="rounded-3xl hero border-2">
+        <div class="rounded-3xl hero border-4 border-slate-900">
           <div class="hero-content text-center">
             <div class="max-w-md">
               <h1 class="text-5xl font-bold">Hello there</h1>
               <p class="py-6">This is some random text. Lets see what will be put in there later.</p>
-              <button class="btn btn-primary">Get Started</button>
+              <button class="btn btn-outline border-2 rounded-xl">Get Started</button>
             </div>
           </div>
         </div>
